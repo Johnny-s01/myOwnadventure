@@ -1,0 +1,30 @@
+body{
+	font-family: Arial, sans-serif;
+	background-color: #f0fdfd;
+	text-align: center;
+	color: #004d40;
+	padding: 20px;
+}
+
+h1{
+	color: #00796b;
+}
+
+h2{
+	margin-top: 40px;
+	color: #00897b;
+}
+img{
+	border-radius: 8px;
+	margin: 10px 0;
+}
+a{
+	color: #0277bd;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+
+}
